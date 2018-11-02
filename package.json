@@ -1,0 +1,14 @@
+{
+  "name": "erc20",
+  "version": "1.0.0",
+  "main": "truffle-config.js",
+  "devDependencies": {
+    "openzeppelin-solidity": "^2.0.0"
+  },
+  "scripts": {
+    "test": "truffle test"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
